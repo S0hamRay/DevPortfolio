@@ -18,24 +18,14 @@ const App = () => {
           <Hero />
         </div>
         <About />
-        <div style = {{ 
-      backgroundImage: `url(${polygons})`,
-      backgroundSize: 'cover',
-      backgroundPosition: 'center',
-      backgroundRepeat: 'no-repeat',
-      width: '100%',
-      height: '100%',
-    marginTop: '80px'}}><Achievements /></div>
+        <div className='achievements-background'>
+          <Achievements />
+        </div>
             
-            <Tech />
-            <div style = {{ 
-      backgroundImage: `url(${projectBlobs})`,
-      backgroundSize: 'cover',
-      backgroundPosition: 'center',
-      backgroundRepeat: 'no-repeat',
-      width: '100%',
-      height: '100%',
-    marginTop: '80px'}}><Works /></div>   
+        <Tech />
+        <div className='works-background'>
+          <Works />
+        </div>   
             
         <div className='relative z-0'>
             <Contact />
