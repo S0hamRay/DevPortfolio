@@ -3,7 +3,7 @@
 }
 
 .achievements-background {
-  background-image: url('/DevPortfolio/polygons.svg');
+  background-image: url('/polygons.svg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -13,7 +13,7 @@
 }
 
 .works-background {
-  background-image: url('/DevPortfolio/projectblobs.svg');
+  background-image: url('/projectblobs.svg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
