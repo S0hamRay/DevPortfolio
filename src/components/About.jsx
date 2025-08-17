@@ -103,8 +103,8 @@ const About = () => {
         className='mt-4 mx-5 text-secondary text-[17px] max-w-7xl leading-[30px]'
       >
         Throughout my academic journey, I have strived to expose myself to a variety of technologies and applications, ranging from frontend
-        development to machine learning and from international olympiads to STEM coaching from one of the largest coaching institutes in India. My dynamic skillset allows me to evolve
-        and thrive in a world of shifting necessities and endless possibilities. My focus on 'Ideas to Innovations' supplement my ability to think
+        development to machine learning and from international olympiads to STEM coaching from one of the largest coaching institutes in India. My dynamic skillset is complemented by my creative side, including almost fifteen years of experience
+        playing the guitar and a year of experience in martial arts. Together, this allows me to evolve and thrive in a world of shifting necessities and endless possibilities. My focus on 'Ideas to Innovations' supplement my ability to think
         analogically by combining my background in mathematics and pure sciences with computer science expertise.
       </motion.p>
       

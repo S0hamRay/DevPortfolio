@@ -42,9 +42,9 @@ import {
   const services = [
 
     {
-      title: "React Native Developer",
+      title: "React Native Mobile Developer",
       icon: mobile,
-      description: 'Developed multiple personal projects using React Native and Expo. Also proficient in React, used to build this website!'
+      description: 'Developed multiple personal projects using React Native and Expo, from sound mixing to productivity apps'
     },
     {
       title: "Backend Developer",
@@ -57,14 +57,14 @@ import {
         description: 'Proficient in scikit-learn, PyTorch, numpy, matplotlib, pandas, TensorFlow, etc.. Also have experience with agentic AI via the OpenAI API and retrieval-augmented generation via the langchain framework.'
     },
     {
-        title: "Web Developer",
+        title: "FrontendDeveloper",
         icon: web,
-        description: 'Proficient in HTML, CSS, and JavaScript. Also have experience with React, Node.js, and Express.'
+        description: 'Proficient in HTML, CSS, JavaScript, React, React Native, Expo, Flutter, Flask, Node.js, and several JS frameworks.'
     },
     {
         title: "2D Game Developer",
         icon:backend,
-        description: 'Proficient in Godot, basic JS frameworks and PyGame. Also have some experience with Unity.'
+        description: 'Proficient in Godot, multiple JS frameworks and PyGame. Also have some experience with Unity.'
     },
     {
       title: "Computational Neuroscientist",
@@ -206,7 +206,7 @@ import {
         },
       ],
       image: neurons,
-      source_code_link: "https://colab.research.google.com/drive/1AsqLVk8TpLzIekTOSseLQLmPCZKid57C",
+      source_code_link: "https://colab.research.google.com/drive/1AsqLVk8TpLzIekTOSseLQLmPCZKid57C?usp=sharing",
     },
   ];
 
