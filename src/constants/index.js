@@ -42,11 +42,6 @@ import {
   const services = [
 
     {
-      title: "React Native Mobile Developer",
-      icon: mobile,
-      description: 'Developed multiple personal projects using React Native and Expo, from sound mixing to productivity apps'
-    },
-    {
       title: "Backend Developer",
       icon: backend,
       description: 'Proficient in Python, Java, C, C++, and SQL. Also have experience with Django and Flask.'
@@ -57,7 +52,7 @@ import {
         description: 'Proficient in scikit-learn, PyTorch, numpy, matplotlib, pandas, TensorFlow, etc.. Also have experience with agentic AI via the OpenAI API and retrieval-augmented generation via the langchain framework.'
     },
     {
-        title: "FrontendDeveloper",
+        title: "Frontend Developer",
         icon: web,
         description: 'Proficient in HTML, CSS, JavaScript, React, React Native, Expo, Flutter, Flask, Node.js, and several JS frameworks.'
     },
