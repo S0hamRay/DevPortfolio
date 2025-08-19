@@ -23,6 +23,7 @@ import fisbook from './fisbook.jpeg';
 import dj from './django.jpeg';
 import projectBlobs from './projectblobs.svg'
 import neurons from './neurons.jpg'
+import openvla from './openvla.jpeg'
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -66,6 +67,7 @@ export {
   backend,
   creator,
   mobile,
+  openvla,
   iris,
   arbitrage,
   fisbook,

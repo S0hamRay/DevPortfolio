@@ -22,6 +22,7 @@ import {
     compiler,
     neurons,
     linkedin,
+    openvla,
   } from "../assets";
   
   export const navLinks = [
@@ -145,37 +146,21 @@ import {
       source_code_link: "https://colab.research.google.com/drive/1YVlTTT6mTszIDVPankZV39oIbBzQTf3D?usp=sharing",
     },
     {
-      name: "FISBook",
+      name: "OpenVLA",
       description:
-        "Web application designed for schools, facilitates inter-student and student-teacher communication along with event planning and scheduling. Streamlines the process of club (forum) creation",
+        "Working on improving interpretability of VLA models via sparse autoencoders",
       tags: [
         {
-          name: "Django",
+          name: "Python",
           color: "blue-text-gradient",
         },
         {
-          name: "Ajax",
+          name: "MuJoCo",
           color: "green-text-gradient",
         },
-        {
-          name: "CSS",
-          color: "pink-text-gradient",
-        },
-        {
-          name: "HTML",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "Three JS",
-          color: "green-text-gradient",
-        },
-        {
-          name: "Bootstrap",
-          color: "pink-text-gradient",
-        }
       ],
-      image: fisbook,
-      source_code_link: "https://github.com/Sausageexpert/FISBook-SubmittableMaybe",
+      image: openvla,
+      source_code_link: "https://github.com/S0hamRay/openvla-robot-experiments",
     },
     {
       name: "Cassava Compiler",
